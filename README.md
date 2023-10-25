@@ -1,4 +1,4 @@
-# Games
+**🎲 Games**
 Welcome to the Python Games Repository! This GitHub repository is a treasure trove of fun and engaging games developed in Python. Whether you're a passionate gamer or a Python enthusiast looking to explore game development, you'll find a diverse collection of games and resources here to quench your gaming thirst.
 
 **Key Features**
@@ -12,10 +12,14 @@ Community Contributions: We encourage and welcome contributions from developers,
 
 # Usage
 
-Clone the repository:
+1. Clone the repository:
 ```
- git clone https://github.com/yourusername/python-games.git
+ git clone https://github.com/anonymousmani/rock_paper-scissor_game.git
 ```
-Choose a game of your interest and explore the game directory.
+2. Change to Directory:
+```
+cd rock_paper-scissor_game
+```
+3. Choose a game of your interest and explore the game directory.
 
-Run the game using Python and start playing.
+4. Run the game using Python and start playing.
